@@ -1,0 +1,31 @@
+_repo: Joy-in-the-Morning_15796
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Andrews, Mary Raymond Shipman
+    birthdate: 1860
+    deathdate: 1936
+    gutenberg_agent_id: '1687'
+    url: http://www.gutenberg.org/2009/agents/1687
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Raymond_Shipman_Andrews
+description: ''
+gutenberg_issued: '2005-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15796'
+  lccn: '19015565'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'World War, 1914-1918 -- Fiction'
+tableOfContents: The ditch -- Her country too -- The swallow -- Only one of them --
+  The V. C. -- He that loseth his life shall find it -- The silver stirrup -- The
+  Russian -- Robina's doll -- Dundonald's destroyer.
+title: Joy in the Morning
+url: http://www.gutenberg.org/ebooks/15796
